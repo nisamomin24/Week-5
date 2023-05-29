@@ -4,7 +4,9 @@ Disclosure of sensitive personal data by a hospital to a third party. 2017
 The complainant in the case study rejected the apology made by the hospital as being not a suitable solution and instead requested an official decision from the commissioner. The commissioner held an investigation and found that the hospital violated the following sections of Data Protection Act 1988 and 2003. The complainant’s sensitive personal information (medical reports) was sent at the wrong address and accidently shared with the third party.
 
 .Section 2(1)(b) - requirement to keep personal data accurate, complete and up to date.
+
 .Section 2(1)(d) - requirement to take appropriate security measures.
+
 .Section 2B(1) - requirement for a legal basis for processing sensitive personal data.
 
 2. How was it resolved?
